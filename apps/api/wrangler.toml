@@ -1,0 +1,12 @@
+name = "dimaura" 
+compatibility_date = "2024-08-06"
+
+main = "src/index.ts" # Replace with the path to your entry point
+
+# Compatibility flags for Node.js APIs
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+AUTH_SECRET = "1aeYfwtAbDlYYacRuMNafaaF9mjeblj4"
+GOOGLE_CLIENT_ID = "568237179236-cegreddk24e6bu89vu3ibb8md5qpu2i0.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET ="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"
