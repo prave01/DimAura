@@ -1,9 +1,5 @@
 # deps
 node_modules/
-
-#env
 .env
-.dev.env
-
-#wrangler
+.dev.vars
 wrangler.toml
