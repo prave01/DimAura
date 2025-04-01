@@ -12,6 +12,7 @@ const BodyFont = Poppins({
 const Garamond = EB_Garamond({
   variable: "--font-eb-garamond",
   weight: "400",
+  display: "swap",
   subsets: ["latin"],
 });
 
@@ -23,6 +24,7 @@ const TitleFont = localfont({
 const DancingScript = Dancing_Script({
   variable: "--font-dancing-script",
   weight: "400",
+  display: "swap",
   subsets: ["latin"],
 });
 
